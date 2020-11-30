@@ -27,19 +27,12 @@ class App extends Component {
   render() {
     return (
       <div className={style.app}>
-        <h3>Funding gap (2012-2020)</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/LRFlt/5/" />
-        <h3>Total humanitarian funding (2012-2020)</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/yIyRs/5/" />
-        <h3>Evolution of HRP requirements (2020)</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/UjiFS/7/" />
-        <h3>Results from 2020</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/lFK6r/14/" />
-        <h3>Evolution of humanitarian needs (2012-2021)</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/hL5PW/11/" />
-        <h3>Overview for 2021</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/yoP0E/17/" />
-        <h3>Overview for 2021: per region</h3>
         <DWChart title="Chart" src="//datawrapper.dwcdn.net/yfXJf/8/" />
       </div>
     );
