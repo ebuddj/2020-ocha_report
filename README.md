@@ -4,6 +4,8 @@
 
 ## OCHA report
 
+EMBARGO 1st December 2020, 0600 CET
+
 The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) is a United Nations body established in December 1991 by the General Assembly to strengthen the international response to complex emergencies and natural disasters.
 
 OCHA will present the Global Humanitarian Overview 2021 (GHO) in Geneva on 1 December 2020 at 9 a.m. The GHO is the annual overview of trends and current state of worldwide humanitarian needs, projections and inter-agency response plans. It includes an overview of the funding necessary to implement the plans in 2021.
