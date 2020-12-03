@@ -40,7 +40,8 @@ You can download the data from the link located below the graphs or use the embe
 * [OCHA](https://www.unocha.org/)
 
 **EBU links**
-* []()
+* [News Exchange #1](https://news-exchange.ebu.ch/item_detail/cf6c7395e06c17d4935729bc11d5df8e/2020_21053890)
+* [News Exchange #2](https://news-exchange.ebu.ch/item_detail/cf6c7395e06c17d4935729bc11d5df8e/2020_21053867)
 
 **Used by**
 * []()
