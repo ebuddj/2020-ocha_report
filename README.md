@@ -44,7 +44,14 @@ You can download the data from the link located below the graphs or use the embe
 * [News Exchange #2](https://news-exchange.ebu.ch/item_detail/cf6c7395e06c17d4935729bc11d5df8e/2020_21053867)
 
 **Used by**
-* []()
+* ARD/Germany on DW-TV Arabia
+* BBC/Great Britain on BBC Persian
+* BNT/Bulgaria on BNT 1
+* NOS/Netherlands on NPO 1 and NPO 2
+* RTVE/Spain on Canal 24 Horas
+* RUV/Iceland on RUV HLS
+* SNRT/Marocco on AI Aoula
+* TV2/Norway on TV2 Norway and TV2 News Norway
 
 ## How to use
 
