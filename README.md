@@ -47,11 +47,13 @@ You can download the data from the link located below the graphs or use the embe
 * ARD/Germany on DW-TV Arabia
 * BBC/Great Britain on BBC Persian
 * BNT/Bulgaria on BNT 1
-* NOS/Netherlands on NPO 1 and NPO 2
+* NOS/Netherlands on NPO 1 
+* NOS/Netherlands on NPO 2
 * RTVE/Spain on Canal 24 Horas
 * RUV/Iceland on RUV HLS
 * SNRT/Marocco on AI Aoula
-* TV2/Norway on TV2 Norway and TV2 News Norway
+* TV2/Norway on TV2 Norway
+* TV2/Norway TV2 News Norway
 
 ## How to use
 
