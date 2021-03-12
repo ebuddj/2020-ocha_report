@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import style from './../styles/styles.less';
 
-import DWChart from 'react-datawrapper-chart'
+import DWChart from 'react-datawrapper-chart';
 
 class App extends Component {
   constructor(props) {
