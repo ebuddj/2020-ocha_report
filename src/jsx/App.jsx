@@ -11,7 +11,7 @@ class App extends Component {
     }
   }
   componentDidMount() {
-    !function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+    !function(){'use strict';window.addEventListener('message',(function(a){if(void 0!==a.data['datawrapper-height'])for(var e in a.data['datawrapper-height']){var t=document.getElementById('datawrapper-chart-'+e)||document.querySelector('iframe[src*="'+e+'"]');t&&(t.style.height=a.data['datawrapper-height'][e]+'px')}}))}();
   }
   componentDidUpdate(prevProps, prevState, snapshot) {
 
@@ -27,13 +27,13 @@ class App extends Component {
   render() {
     return (
       <div className={style.app}>
-        <DWChart title="Chart 1" src="//datawrapper.dwcdn.net/LRFlt/5/" />
-        <DWChart title="Chart 2" src="//datawrapper.dwcdn.net/yIyRs/5/" />
-        <DWChart title="Chart 3" src="//datawrapper.dwcdn.net/UjiFS/7/" />
-        <DWChart title="Chart 4" src="//datawrapper.dwcdn.net/lFK6r/14/" />
-        <DWChart title="Chart 5" src="//datawrapper.dwcdn.net/hL5PW/11/" />
-        <DWChart title="Chart 6" src="//datawrapper.dwcdn.net/yoP0E/17/" />
-        <DWChart title="Chart 7" src="//datawrapper.dwcdn.net/yfXJf/8/" />
+        <DWChart title='Chart 1' src='//datawrapper.dwcdn.net/LRFlt/5/' />
+        <DWChart title='Chart 2' src='//datawrapper.dwcdn.net/yIyRs/5/' />
+        <DWChart title='Chart 3' src='//datawrapper.dwcdn.net/UjiFS/7/' />
+        <DWChart title='Chart 4' src='//datawrapper.dwcdn.net/lFK6r/14/' />
+        <DWChart title='Chart 5' src='//datawrapper.dwcdn.net/hL5PW/11/' />
+        <DWChart title='Chart 6' src='//datawrapper.dwcdn.net/yoP0E/17/' />
+        <DWChart title='Chart 7' src='//datawrapper.dwcdn.net/yfXJf/8/' />
       </div>
     );
   }
